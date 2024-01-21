@@ -2,7 +2,7 @@ import streamlit as st
 
 # Add custom CSS to hide the GitHub icon
 hide_github_icon = """
-#GithubIcon {
+#MainMenu {
   visibility: hidden;
 }
 """
