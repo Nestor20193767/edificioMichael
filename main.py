@@ -8,4 +8,4 @@ hide_github_icon = """
 """
 st.markdown(hide_github_icon, unsafe_allow_html=True)
 
-st.set_page_config(page_title="Flujo de caja", page_icon=":bar_chart:", layout="wide")
+st.title(":bar_chart: Flujo de caja")
