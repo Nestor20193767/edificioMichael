@@ -1,0 +1,10 @@
+streamlit
+pandas
+xlsxwriter
+streamlit-authenticator
+streamlit_option_menu
+google-api-python-client 
+google-auth-httplib2 
+google-auth-oauthlib
+matplotlib 
+plotly
